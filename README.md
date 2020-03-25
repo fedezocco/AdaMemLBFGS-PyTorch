@@ -3,6 +3,11 @@ The repository contains the source code of the paper "An adaptive memory multi-b
 
 I am going to upload the code as soon as the paper is published (roughly August/September 2020).
 
+Link to the paper: 
+
+Note that the "ETCH" case study, i.e. Experiment 2 of the paper, is not included in this repository because the "ETCH" dataset is not publishable.
+
+
 # Dependencies of folders and files 
 
 
