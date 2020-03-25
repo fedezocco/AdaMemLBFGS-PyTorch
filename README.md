@@ -8,7 +8,7 @@ Link to the paper:
 Note that the "ETCH" case study, i.e. Experiment 2 of the paper, is not included in this repository because the "ETCH" dataset is not publishable.
 
 
-# Dependencies of folders and files 
+## Dependencies of folders and files 
 
 The script "Algorithms_comparison.py" should be executed by the user to do the Monte Carlo simulations comparing the training algorithms on different datasets. It uses all the modules and data file inside the same folder of "Algorithms_comparison.py". It also uses the modules inside the folder "functions". 
 
