@@ -5,7 +5,11 @@ I am going to upload the code as soon as the paper is published (roughly August/
 
 Link to the paper: (to put here) 
 
-Note that the "ETCH" case study, i.e. Experiment 2 of the paper, is not included in this repository because the "ETCH" dataset is not publishable.
+To cite the paper in Word: (to put here) 
+
+To cite the paper in Latex: (to put here) 
+
+Note that the "ETCH" case study, i.e. Experiment 2 of the paper, is not included in this repository because the "ETCH" dataset cannot be made publicly available for confidentiality reasons.
 
 
 ## Dependencies of folders and files 
