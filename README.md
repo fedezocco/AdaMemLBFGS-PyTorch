@@ -1,9 +1,15 @@
 # An Adaptive Memory Multi-Batch L-BFGS in PyTorch
-The repository contains the source code of the paper "An adaptive memory multi-batch L-BFGS algorithm for neural network training" authored by Federico Zocco and Seán McLoone. The paper has been accepted at the 21st IFAC World Congress, which is going to be held in Berlin in July 12-17, 2020. 
+The repository contains the source code of the paper "An adaptive memory multi-batch L-BFGS algorithm for neural network training" authored by Federico Zocco and Seán McLoone. The paper has been presented at the 21st IFAC World Congress, held in Berlin in July 12-17, 2020. 
 
-I am going to upload the code as soon as the paper is published (approximately August/September 2020).
-
-If you use the code, please consider citing the corresponding paper: (to put here the link to the paper).  
+If you use the code, please consider citing the corresponding paper: 
+Federico Zocco, Seán McLoone,
+An Adaptive Memory Multi-Batch L-BFGS Algorithm for Neural Network Training,
+IFAC-PapersOnLine,
+Volume 53, Issue 2,
+2020,
+Pages 8199-8204,
+ISSN 2405-8963,
+https://doi.org/10.1016/j.ifacol.2020.12.1996.  
 
 Note that the "ETCH" case study, i.e. Experiment 2 of the paper, is not included in this repository because the "ETCH" dataset cannot be made publicly available for confidentiality reasons.
 
