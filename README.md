@@ -11,16 +11,16 @@ Pages 8199-8204,
 ISSN 2405-8963,
 https://doi.org/10.1016/j.ifacol.2020.12.1996.  
 
-Note that the "ETCH" case study, i.e. Experiment 2 of the paper, is not included in this repository because the "ETCH" dataset cannot be made publicly available for confidentiality reasons.
+Note that the datasets are not uploaded in this folder because too large. See Table 1 of my paper if you need information to find the datasets. 
 
 
 ## Dependencies of folders and files 
 
-The script "Algorithms_comparison.py" should be executed by the user to do the Monte Carlo simulations that compare the training algorithms on different datasets. It uses all the modules and data files inside the same folder of "Algorithms_comparison.py". It also uses the modules inside the folder "functions". 
+The script "Algorithms_comparison.py" should be executed by the user to do the Monte Carlo simulations that compare the training algorithms on different datasets. It uses all the modules inside the same folder of "Algorithms_comparison.py". It also uses the modules inside the folder "functions". 
 
-The data files (i.e. the ".npy" files) are the datasets considered in Experiments 3, 4, and 6. The datasets for the remaining experiments are downloaded by the "Algorithms_comparison.py" script from the internet. 
+The datasets for Experiments 1, 2 and 5 are downloaded by "Algorithms_comparison.py" from the internet. 
 
-The folder "Others" contains 2 scripts demonstrating how to do image rescaling and data augmentation. They are not used by the script "Algorithms_comparison.py". I have created and used this 2 scripts to rescale and augment the datasets as detailed in the paper. 
+The folder "Others" contains 2 scripts demonstrating how to do image rescaling and data augmentation. They are not used by the script "Algorithms_comparison.py". I have created and used this 2 scripts to rescale and augment the datasets as detailed in my paper. 
 
 
 
