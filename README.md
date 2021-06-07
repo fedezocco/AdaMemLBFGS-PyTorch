@@ -18,7 +18,7 @@ Note that the datasets are not uploaded in this folder because too large. See Ta
 
 The script "Algorithms_comparison.py" should be executed by the user to do the Monte Carlo simulations that compare the training algorithms on different datasets. It uses all the modules inside the same folder of "Algorithms_comparison.py". It also uses the modules inside the folder "functions". 
 
-The datasets for Experiments 1, 2 and 5 are downloaded by "Algorithms_comparison.py" from the internet. 
+The datasets for Experiments 1, 4 and 5 are downloaded by "Algorithms_comparison.py" from the Internet. 
 
 The folder "Others" contains 2 scripts demonstrating how to do image rescaling and data augmentation. They are not used by the script "Algorithms_comparison.py". I have created and used this 2 scripts to rescale and augment the datasets as detailed in my paper. 
 
